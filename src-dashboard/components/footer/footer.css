@@ -1,0 +1,17 @@
+.footer-ul .footer-li {
+    font-size: 19px;
+    line-height: 80px;
+    font-weight: 100px;
+}
+
+.footer-ul{
+    width: 98%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0;
+    padding: 0;
+}
+footer{
+    background-color: 	rgb(220,220,220);
+
+}

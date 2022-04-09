@@ -1,0 +1,14 @@
+.chart{
+    width: 472px;
+    height: 176px;
+    margin: 43px;
+    margin-top: -15px;
+    background-color: 	rgb(169,169,169);
+}
+.big-article h3{
+    padding: 2px 9px 0;
+}
+.big-article h2{
+    padding: 9px 9px;
+    margin-top: -15px;
+}

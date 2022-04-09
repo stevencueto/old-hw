@@ -1,0 +1,17 @@
+.small-articles{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+.art-smaller{
+    height: 216px;
+    width: 29%;
+    background-color: 	rgb(220,220,220);
+    margin: 0;
+}
+.article-text {
+    padding: 9px;
+}
+h2{
+    font-weight: 300;
+}
